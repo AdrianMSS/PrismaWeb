@@ -16,7 +16,7 @@ body {
   font-size: 18px;
   line-height: 1.7;
   color: rgba(255, 255, 255, 0.3);
-  background: #000 url(../images/broken_noise.png) repeat;
+  background: #FFF;
 }
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
   body {
@@ -436,7 +436,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .fh5co-section {
-  padding: 7em 0;
+  padding: 4em 0;
 }
 @media screen and (max-width: 480px) {
   .fh5co-section {
